@@ -45,8 +45,10 @@ An intelligent, real-time facial emotion and engagement sensing platform for cla
 ## Results
 
 - **Pre-Balancing Model**: Accuracy 72.7%, strong bias towards 'neutral'.
+<img src="public/pre_balance_output.png" alt="Pre-Balance Training Accuracy & Loss Curves" width="500"/>
 
 - **Post-Balancing Model**: Accuracy 93%, Macro F1-score 0.93, per-class F1 > 0.90 for most classes.
+<img src="public/post_balance_output.png" alt="Post-Balance Training Accuracy & Loss Curves" width="500"/>
 
 - **Generalization**: Strong performance maintained on unseen classroom video frames (occlusions, side-poses, lighting variations).
 
