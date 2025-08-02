@@ -37,10 +37,10 @@ An intelligent, real-time facial emotion and engagement sensing platform for cla
 - **Evaluation**: Macro-averaged F1-score, per-class metrics, test against unseen video data.
 
 ## Sample Dataset
-![Sample Dataset Example](sample_faces.jpg)
+<img src="public/sample_faces.jpg" alt="Sample Dataset Example" width="500"/>
 
 ## Model Architecture
-![Model Architecture](FlowChart1.png)
+<img src="public/FlowChart1.png" alt="Model Architecture" width="500"/>
 
 ## Results
 
@@ -59,8 +59,10 @@ An intelligent, real-time facial emotion and engagement sensing platform for cla
 
 ## Collaborators & Co-Authors
 
-- [Vaibhav Tandon](https://github.com/vtandon1204)
-- [Mukunj Mundhra](https://github.com/Mukunj-21)
-- [Diya Burman](https://github.com/diya-burman)
-- [Kanchan Saini](https://github.com/kanchansaini)
-- [Mridul Gupta](https://github.com/mridulgupta)
+- Vaibhav Tandon - [GitHub](https://github.com/vtandon1204) | [LinkedIn](https://www.linkedin.com/in/vtandon1204)
+- Mukunj Mundhra - [GitHub](https://github.com/Mukunj-21) | [LinkedIn](https://www.linkedin.com/in/mukunj21)
+- Diya Burman - [GitHub](https://github.com/diya-burman) | [LinkedIn](https://www.linkedin.com/in/diya-burman-13981b262)
+- Kanchan Saini - [GitHub](https://github.com/ksaini762) | [LinkedIn](https://www.linkedin.com/in/kanchan-saini-a7463a267)
+- Mridul Gupta - [GitHub](https://github.com/gupta1811) | [LinkedIn](https://www.linkedin.com/in/mridulgupta18)
+- Simran Setia - [LinkedIn](https://www.linkedin.com/in/simran-setia-6a56b9108)
+- Sachin Kansal - [LinkedIn](https://www.linkedin.com/in/dr-sachin-kansal-72983473)
